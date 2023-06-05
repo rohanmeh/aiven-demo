@@ -4,7 +4,11 @@ This is a sample application for processing orders using Aiven for Apache Kafka 
 
 ![Aiven POC](./Aiven%20POC.png)
 
-To use this application, you will need to have Python3 installed on your local desktop.
+### Prerequisites
+
+To use this application, you will need to have Python3 installed on your local desktop. You will also need to set up Aiven for Apache Kafka and Flink on console.aiven.io. You'll be granted security keys for the ca.pem, service.cert, and service.key files after you set up Kafka within the Aiven console.
+
+### Running the application
 
 1. For creating sample orders to be sent to Aiven for Apache Kafka, run order_producer.py.
 ```console
