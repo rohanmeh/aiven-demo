@@ -1,4 +1,4 @@
-# README
+# Aiven Order Processing App
 
 This is a sample application for processing orders using Aiven for Apache Kafka and Flink.
 
