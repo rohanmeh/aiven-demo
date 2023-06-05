@@ -1,5 +1,9 @@
 # README
 
+This is a sample application for processing orders using Aiven for Apache Kafka and Flink.
+
+![Aiven POC](./Aiven%20POC.png)
+
 To use this application, you will need to have Python3 installed on your local desktop.
 
 1. For creating sample orders to be sent to Aiven for Apache Kafka, run order_producer.py.
